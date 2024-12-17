@@ -1,0 +1,121 @@
+{
+  "metaTitle": "Glitch in Bio!",
+  "metaDescription": "link in bio, links, crafts, art, promotion",
+  "name": "Alien_Sunset's Miscellany",
+  "subtitle":"Jack of all Trades, Master of Some",
+  "theme": "menu",
+  "avatarImage": "https://cdn.glitch.global/3b703b06-037c-46be-801a-702a5f51d73e/rudbeckia%20purple%20envy.png?v=1734452872987",
+  "links": [
+    {
+      "url": "https://www.twitch.tv/alien_sunset",
+      "text": "I stream Minecraft and sometimes other wierdness on Twitch",
+      "img": "https://cdn.glitch.global/3b703b06-037c-46be-801a-702a5f51d73e/pic3.png?v=1734459593352",
+      "altText": "my minecraft person waving in from of a rainbow starfield"
+    },
+    {
+      "url": "https://dice.camp/@Alien_Sunset",
+      "text": "follow on social media: @alien_sunset@dice.camp",
+      "img": "https://cdn.glitch.global/3b703b06-037c-46be-801a-702a5f51d73e/IMG_9319.PNG?v=1734458561051"
+    },
+    {
+      "url": "https://bsky.app/profile/aliensunset.bsky.social",
+      "text": "or @aliensunset.bsky.social",
+      "img": "https://cdn.glitch.global/3b703b06-037c-46be-801a-702a5f51d73e/IMG_9319.PNG?v=1734458561051"
+    },
+    {
+      "url": "https://alien-sunset.neocities.org/bots/colorbot",
+      "text": "I made a (Semi) Random Color Palette Generator!",
+      "img": "https://cdn.glitch.global/3b703b06-037c-46be-801a-702a5f51d73e/bot%20icon%20-%20rainbow%20palette.png?v=1734458578245"
+    },
+    {
+      "url": "https://alien-sunset.neocities.org/bots/Bots",
+      "text": "in fact I've been really into creating bots and random generators and other kinda of creative coding and generative art.",
+      "img": "https://cdn.glitch.global/3b703b06-037c-46be-801a-702a5f51d73e/aliensiconalt2.png?v=1734458596349"
+    },
+    {
+      "url": "https://cara.app/aliensunset/portfolio/pen-ink",
+      "text": "A sampling of my pen & ink art: I take commissions!",
+      "img": "https://cdn.glitch.global/3b703b06-037c-46be-801a-702a5f51d73e/50577705841_4a723e6ec2_c.jpg?v=1734459372826"
+    },
+    {
+      "url": "https://www.zazzle.com/store/alien_sunset_art",
+      "text": "You can also buy my art on cards, mugs,  stickers and more, including past sticker of the month club stickers!",
+      "img": "https://cdn.glitch.global/3b703b06-037c-46be-801a-702a5f51d73e/leafyflower%20mandala%20X.png?v=1734460850389"
+    },
+    {
+      "url": "mailto:alien.sunset.tarot@gmail.com",
+      "text": "Book a tarot reading by e-mail at Alien.Sunset.Tarot@gmail.com",
+      "img": "https://cdn.glitch.global/3b703b06-037c-46be-801a-702a5f51d73e/49868288537_c7a65efc34_k.jpg?v=1734460186810"
+    },
+    {
+      "url": "https://www.instagram.com/aliensunsettarot/",
+      "text": "See more Tarot goodness at my Tarot Instagram!",
+      "img": "https://cdn.glitch.global/3b703b06-037c-46be-801a-702a5f51d73e/48113104916_422fbbc264_o.jpg?v=1734460172138"
+    },
+    {
+      "url": "https://www.ravelry.com/stores/abigail-lalonde-designs",
+      "text": "I sell knitting paterns!",
+      "img": "https://cdn.glitch.global/3b703b06-037c-46be-801a-702a5f51d73e/13890000247.jpg?v=1734459069172"
+    },
+    {
+      "url": "https://ko-fi.com/c/6bd0a3d870",
+      "text": "but if you don't knit, I'll knit for you!",
+      "img": "https://cdn.glitch.global/3b703b06-037c-46be-801a-702a5f51d73e/38904438_276336912972621_6818092511739772928_n_medium2.jpg?v=1734459067278"
+    },
+    {
+      "url": "https://alien-sunset.itch.io/",
+      "text": "I also make Role Playing modules, games, and maps! (I take map commisions too!)",
+      "img": "https://cdn.glitch.global/3b703b06-037c-46be-801a-702a5f51d73e/53829194627_3049f2241c_k.jpg?v=1734459370276"
+    },
+    {
+      "url": "https://ko-fi.com/alien_sunset/tiers",
+      "text": "Support a \"starving\" artist and buy me a ko-fi: New home of Mail Art and Sticker of the Month Club!",
+      "img": "https://cdn.glitch.global/3b703b06-037c-46be-801a-702a5f51d73e/kingcharleshat.png?v=1734458672439"
+    },
+    {
+      "url": "https://ko-fi.com/alien_sunset/shop",
+      "text": "You can also purchase my cross stich and knitting patterns at Ko-fi as well as find bunches of free stuff like coloring pages, and old dungeon maps!",
+      "img": "https://cdn.glitch.global/3b703b06-037c-46be-801a-702a5f51d73e/53349538229_a5360d70e6_c.jpg?v=1734459487039"
+    },
+    {
+      "url": "https://www.paypal.me/aliensunset",
+      "text": "and if you just want to throw money at me via Paypal, I'm fine with that too  ;)",
+      "img": ""
+    }
+  ],
+  "social": {
+    "glitch": "https://glitch.com/@alien-sunset",
+    "arena": "",
+    "bandcamp": "",
+    "bluesky": "https://bsky.app/profile/aliensunset.bsky.social",
+    "cohost": "",
+    "dev": "",
+    "facebook": "",
+    "github": "https://github.com/alien-sunset",
+    "gitlab": "",
+    "hashnode": "",
+    "instagram": "",
+    "itchio": "https://alien-sunset.itch.io/",
+    "keybase": "",
+    "kofi": "https://ko-fi.com/alien_sunset",
+    "letterboxd": "",
+    "linkedin": "",
+    "mastodon": "https://dice.camp/@Alien_Sunset",
+    "medium": "",
+    "onlyfans": "",
+    "patreon": "",
+    "pinboard": "",
+    "pinterest": "",
+    "podcast": "",
+    "soundcloud": "",
+    "spotify": "",
+    "stackoverflow": "",
+    "substack": "",
+    "twitter": "",
+    "twitch": "https://www.twitch.tv/alien_sunset",
+    "tiktok": "",
+    "tumblr": "https://www.tumblr.com/blog/alien-sunset",
+    "youtube": "https://www.youtube.com/@alien_sunset",
+    "email": "Alien_Sunset@yahoo.com"
+  }
+}
